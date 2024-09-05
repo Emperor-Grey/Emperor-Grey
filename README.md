@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=125&section=header&text=Welcome%20to%20My%20World!&fontSize=40&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4b4b&height=180&section=header&text=Red%20Lines%20Everywhere...%20Send%20Help!&fontSize=45&animation=fadeIn&fontColor=ffffff&fontAlignY=40&desc=Errors%20Are%20My%20Life...&descAlignY=70&descAlign=70"/>
+</p>
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/IndusAryan/IndusAryan/main/line3.gif" alt="Divider" width="1050" height="4" />
 </p>
 
 <h3 align="center">👀 Total Profile Visits 👀</h3>
@@ -7,46 +11,34 @@
 	<img src="https://count.getloli.com/get/@Emperor-Grey?theme=rule34"> <br/>
 </p>
 
-<h1 align="center">🙏 Bow Before Emperor Grey 🙏</h1>
+<h1 align="center">🙏 Kneel Before Your Emperor 🙏</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Emperor-Grey/Emperor-Grey/main/line3.gif" alt="Divider" width="1050" height="4" />
-</p>
+### 👑 About Me – Emperor of Errors
+Hey, I'm **King Grey**, also known as **Emperor Grey**. Why the name? Well, I’m obsessed with light novels, manga, manhwa, anime—you name it! Ever read *The Beginning After the End*? That’s where I got **King Grey** from. But instead of ruling a kingdom, I’m out here battling errors and bugs on a daily basis. 🧑‍💻
 
-### 👑 About Me – Emperor Grey's Tale
-Hey, folks! I go by **King Grey**, also known as **Emperor Grey**, all thanks to my obsession with light novels, manga, manhwa, and anime. If you've heard of *The Beginning After the End*, you'll know where I got my name. That’s right, **King Grey** is my alter ego from that series. 💪
+I enjoy building things (especially in **Android development**) but, let's be real, native dev fried my brain 🧠, so I’m sticking to the **web world**. Oh, and **Neovim**? My best pal. Mouse? Never heard of her! 🖱️❌
 
-I love building things, especially in **Android development**, but native dev kinda fried my brain 🧠, so I’m sticking to the **web world** for now. Oh, and **Neovim**? It's my best friend because why would I touch my mouse when I could avoid it entirely?! 🖱️❌
+- **Started coding**: 3 years ago, still drowning in red lines and error messages 💻
+- **Current love**: Taming **Neovim** like a pro, even though I’m still not on **Linux** yet 😅
+- **Dream setup**: One day, I’ll conquer **Hyprland configs** and the mighty **Arch Linux** 🐧
 
-- **Started coding**: 3 years ago and still going strong 💻
-- **Current love**: Playing with **Neovim** like a pro, even though I don’t use Linux (yet).
-- **Dream setup**: Someday I'll conquer **Hyprland configs** and master **Arch Linux** 🐧
-  
-If I’m not reading **webtoons**, you’ll find me deep in code or figuring out new ways to optimize my workflow (aka finding excuses not to use the mouse).
+When I’m not getting lost in **webtoons** or anime, I’m diving deep into code, but half the time, I’m fighting off red errors like a knight fending off dragons. 🛡️🔥
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Emperor-Grey/Emperor-Grey/main/line3.gif" alt="Divider" width="1050" height="4" />
-</p>
-
-### 🛠️ Tech I Use
+### 🛠️ Tech Stack – Tools I Battle With
 <p align="center">
   <a href="https://go-skill-icons.vercel.app">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python,kotlin,java&theme=dark" />
   </a>
 </p>
 
-### ⚡ Frameworks & Tools I Play With
+### ⚡ Frameworks & Tools in My Arsenal
 <p align="center">
   <a href="https://go-skill-icons.vercel.app">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,flask,nodejs,react,reactnative,express,mongodb,mysql,git,github,androidstudio,neovim,figma&theme=dark" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Emperor-Grey/Emperor-Grey/main/line3.gif" alt="Divider" width="1050" height="4" />
-</p>
-
-### 🏆 GitHub Stats – The Emperor’s Achievements
+### 🏆 GitHub Stats – My Error Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Emperor-Grey&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats" />
 </p>
@@ -61,7 +53,7 @@ If I’m not reading **webtoons**, you’ll find me deep in code or figuring out
   </a>
 </p>
 
-### 🌟 Contribution Graph
+### 🌟 Contribution Graph – Error Graph of My Life
 <p align="center">
   <a href="https://github.com/Emperor-Grey">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emperor-Grey&theme=dracula&bg_color=1F222E&hide_border=true" alt="Contribution Graph" />
@@ -69,6 +61,5 @@ If I’m not reading **webtoons**, you’ll find me deep in code or figuring out
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Emperor-Grey/Emperor-Grey/main/line3.gif" alt="Divider" width="1050" height="4" />
+ <img src="https://raw.githubusercontent.com/IndusAryan/IndusAryan/main/line3.gif" alt="Divider" width="1050" height="4" />
 </p>
-
