@@ -8,7 +8,7 @@
 
 <h3 align="center">👀 Total Profile Visits 👀</h3>
 <p align="center">
-	<img src="https://count.getloli.com/get/@Emperor-Grey?theme=booru-vp"> <br/>
+	<img src="https://count.getloli.com/get/@Emperor-Grey?theme=gelbooru-h"> <br/>
 </p>
 
 <h1 align="center">🙏 Kneel Before Your Emperor 🙏</h1>
