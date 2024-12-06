@@ -27,14 +27,14 @@ When I’m not getting lost in **webtoons** or anime, I’m diving deep into cod
 ### 🛠️ Tech Stack – Tools I Battle With
 <p align="center">
   <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python,kotlin,java&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,rust,python,java,kotlin&theme=dark" />
   </a>
 </p>
 
 ### ⚡ Frameworks & Tools in My Arsenal
 <p align="center">
   <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,flask,nodejs,react,reactnative,express,mongodb,mysql,git,github,androidstudio,neovim,figma&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,flask,nodejs,react,reactnative,express,solidity,mongodb,mysql,git,github,androidstudio,neovim,figma&theme=dark" />
   </a>
 </p>
 
